@@ -1,0 +1,5 @@
+C:\Documents and Settings\Dan\my documents\visual studio 2010\Projects\Service\Service\bin\Debug\Glyde.ServiceModel.Examples.exe
+C:\Documents and Settings\Dan\my documents\visual studio 2010\Projects\Service\Service\bin\Debug\Glyde.ServiceModel.Examples.pdb
+C:\Documents and Settings\Dan\my documents\visual studio 2010\Projects\Service\Service\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dan\my documents\visual studio 2010\Projects\Service\Service\obj\x86\Debug\Glyde.ServiceModel.Examples.exe
+C:\Documents and Settings\Dan\my documents\visual studio 2010\Projects\Service\Service\obj\x86\Debug\Glyde.ServiceModel.Examples.pdb

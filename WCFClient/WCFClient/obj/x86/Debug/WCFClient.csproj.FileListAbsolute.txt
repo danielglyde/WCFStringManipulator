@@ -1,0 +1,6 @@
+c:\documents and settings\dan\my documents\visual studio 2010\Projects\WCFClient\WCFClient\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\dan\my documents\visual studio 2010\Projects\WCFClient\WCFClient\bin\Debug\WCFClient.exe.config
+c:\documents and settings\dan\my documents\visual studio 2010\Projects\WCFClient\WCFClient\bin\Debug\WCFClient.exe
+c:\documents and settings\dan\my documents\visual studio 2010\Projects\WCFClient\WCFClient\bin\Debug\WCFClient.pdb
+c:\documents and settings\dan\my documents\visual studio 2010\Projects\WCFClient\WCFClient\obj\x86\Debug\WCFClient.exe
+c:\documents and settings\dan\my documents\visual studio 2010\Projects\WCFClient\WCFClient\obj\x86\Debug\WCFClient.pdb
